@@ -1,10 +1,10 @@
-# snake-water-gun-game
+# Snake-Water-Gun-game
 
 🎮A simple and entertaining Python-based command-line game inspired by the classic Snake, Water, Gun logic — similar to Rock, Paper, Scissors.
 In this single-player version, you play against the computer, which makes a random choice every round.
 
 
-⚙️ Game Features
+# ⚙️ Game Features
 
 🧠 Single-player mode – You compete against the computer.
 
@@ -19,14 +19,17 @@ In this single-player version, you play against the computer, which makes a rand
 🎯 Replay-ready – Automatically restarts each round until you choose to quit.
 
 
-🧩 Game Logic
-Option	Beats	Loses To
-🐍 Snake	Water	Gun
-💧 Water	Gun	Snake
-🔫 Gun	Snake	Water
-💻 How It Works
+# 🧩 Game Logic
 
+⚙️Option -> Beats	: Loses To
 
+🐍 Snake -> Water	: Gun
+
+💧 Water -> Gun	: Snake
+
+🔫 Gun -> Snake : Water
+
+# 💻 How It Works
 The computer randomly assigns positions to "Snake", "Water", and "Gun".
 
 You’re prompted to choose one option.
@@ -38,7 +41,7 @@ Your scoreboard is updated automatically.
 Type STOP anytime to exit and view your final results.
 
 
-🧱 Future Scope
+# 🧱 Future Scope
 
 🔄 Add Two-player mode (Player vs Player).
 
