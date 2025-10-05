@@ -69,11 +69,11 @@ while True:
         print("\n----------------------------------------------------------")
         print("----------------------------------------------------------")
         print(f"Result\n")
-        print("Player 1")
+        print("******Player 1******")
         for x in p1_marks:
             print(f"{x} => {p1_marks[x]}")
         print()
-        print("Player 2")
+        print("******Player 2******")
         for x in p2_marks:
             print(f"{x} => {p2_marks[x]}")
         break
